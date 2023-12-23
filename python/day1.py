@@ -1,0 +1,1 @@
+print("My favorite Pokemon is Pikachu.")
