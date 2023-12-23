@@ -1,1 +1,2 @@
-print("My favorite Pokemon is Pikachu.")
+x = input("what is your favourate pokemon: ") 
+print('my favourite pokemon is', x)
